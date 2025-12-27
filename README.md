@@ -1,4 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+
+
+<h1 align="center">🚀 Gautam Amin</h1>
+<h3 align="center">Founder @ DevNext | FE CSE (AI & ML)</h3>
+<!--<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284067-31f97c5e-6f22-4f36-9d6a-3a1c9c6b7c96.gif" width="80%">
+</p>-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=280&width=50&color=1eeb70&text=Gautam%20Amin&section=header&textBg=false&animation=twinkling&desc=Cse(AIML)%20|%20Learning%20|%20Building&descAlign=50&fontSize=0&reversal=false&fontAlign=50&fontAlignY=37&stroke=1eeb70&descAlignY=52" />
+</p>
+
 
 ### Hi there 👋
 
