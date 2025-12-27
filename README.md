@@ -5,13 +5,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284067-31f97c5e-6f22-4f36-9d6a-3a1c9c6b7c96.gif" width="80%">
 </p>-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=280&width=50&color=1eeb70&text=Gautam%20Amin&section=header&textBg=false&animation=twinkling&desc=Cse(AIML)%20|%20Learning%20|%20Building&descAlign=50&fontSize=0&reversal=false&fontAlign=50&fontAlignY=37&stroke=1eeb70&descAlignY=52" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=280&width=50&color=1eeb70&&section=header&textBg=false&animation=twinkling&fontSize=0&reversal=false&fontAlign=50&fontAlignY=37&stroke=1eeb70&descAlignY=52" />
 </p>
 
 <h1 align="center">🚀 Gautam Amin</h1>
 <h3 align="center">Founder @ DevNext | FE CSE (AI & ML)</h3>
-# 💫 About Me:
-##🚀 Hi, I’m Gautam Amin  <br><br>🎓 FE CSE (AI & ML) Student  <br>👑 Founder & President of DevNext  <br>💡 Builder by curiosity, leader by choice<br><br>I believe **coding is not just writing code — it’s creating impact**.  <br>Started from **absolute zero**, now building projects, communities, and confidence.<br>---<br>**🧠 What I Do**<br>- 🏗 Build projects from scratch  <br>- 🤖 Explore AI, ML, Bots & Game Dev  <br>- 🎓 Teach beginners through DevNext  <br>- 🔥 Turn ideas into reality<br>---<br>**🌱 Currently Learning**<br>- 🐍 Python | 💻 C Programming  <br>- 🧠 AI & ML fundamentals  <br>- ⚙️ Computer Science basics  <br>- 🧩 Problem-solving & leadership<br>---<br>**🔥 My Mindset**<br>- 📈 Consistency > Talent  <br>- 🧠 Fundamentals first  <br>- 🛠 Learn → Build → Teach → Repeat  <br>- 🚀 Growth every single day<br>---<br>**🤝 Let’s Connect**<br>If you love **learning from scratch**, **building cool stuff**, and **growing together**  <br>✨ you’re already welcome here.<br>
+<b># 💫 About Me:</b> <br><br>🎓 FE CSE (AI & ML) Student  <br>👑 Founder & President of DevNext  <br>💡 Builder by curiosity, leader by choice<br><br>I believe <b>coding is not just writing code — it’s creating impact</b>.  <br>Started from <b>absolute zero</b>, now building projects, communities, and confidence.<br>---<br><b>🧠 What I Do</b><br>- 🏗 Build projects from scratch  <br>- 🤖 Explore AI, ML, Bots & Game Dev  <br>- 🎓 Teach beginners through DevNext  <br>- 🔥 Turn ideas into reality<br>---<br><b>🌱 Currently Learning</b><br>- 🐍 Python | 💻 C Programming  <br>- 🧠 AI & ML fundamentals  <br>- ⚙️ Computer Science basics  <br>- 🧩 Problem-solving & leadership<br>---<br><b>🔥 My Mindset</b><br>- 📈 Consistency > Talent  <br>- 🧠 Fundamentals first  <br>- 🛠 Learn → Build → Teach → Repeat  <br>- 🚀 Growth every single day<br>---<br><b>🤝 Let’s Connect</b><br>If you love <b>learning from scratch</b>, <b>building cool stuff</b>, and <b>growing together</b>  <br>✨ you’re already welcome here.<br>
 
 
 ## 🌐 Socials:
