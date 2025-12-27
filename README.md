@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=900&lines=Hi+👋+I’m+Gautam+Amin;FE+CSE+(AI+%26+ML)+Student;Founder+%26+President+of+DevNext;Learning.+Building.+Leading.🔥" />
+</p>
+
 ### Hi there 👋
 
 <!--
