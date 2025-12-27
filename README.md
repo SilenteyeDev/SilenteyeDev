@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284067-31f97c5e-6f22-4f36-9d6a-3a1c9c6b7c96.gif" width="80%">
 </p>-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=280&width=50&color=1eeb70&&section=header&textBg=false&animation=twinkling&fontSize=0&reversal=false&fontAlign=50&fontAlignY=37&stroke=1eeb70&descAlignY=52" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&width=50&color=1eeb70&&section=header&textBg=false&animation=twinkling&fontSize=0&reversal=false&fontAlign=50&fontAlignY=37&stroke=1eeb70&descAlignY=52" />
 </p>
 
 <h1 align="center">🚀 Gautam Amin</h1>
